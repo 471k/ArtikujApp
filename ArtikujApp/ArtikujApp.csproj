@@ -137,6 +137,7 @@
     <None Include="ArtikujDbModel.edmx.diagram">
       <DependentUpon>ArtikujDbModel.edmx</DependentUpon>
     </None>
+    <None Include="ArtikujtDbSQLBacpac.bacpac" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
